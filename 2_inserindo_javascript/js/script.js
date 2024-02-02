@@ -1,0 +1,1 @@
+console.log("script do executando no head");
