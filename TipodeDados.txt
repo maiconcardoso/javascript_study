@@ -10,7 +10,9 @@ String; Tipo de dado para textos, as strings podem ser escritas com aspas simple
 ou duplas; um número entre aspas pode ser considerado como uma string; é possível concatenar strings com +
 
 
-Boolean;
+Boolean; Representa um valor verdadeiro ou falso; Comparações resultam em boolean;
+podemos atribuir um 'true' ou 'false' para uma variável e ela terá o tipo de Boolean 
+
 Null;
 Undefined;
 Object;
