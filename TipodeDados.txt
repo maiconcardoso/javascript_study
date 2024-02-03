@@ -1,0 +1,16 @@
+Tipo de dados em Javascript
+
+podemos verificar o tipo de dado através da função typeof
+
+
+Number; Tipo de dado para números, não existe
+um tipo definido para inteiros, portantos todos os números são considerados do tipo Number
+
+String; Tipo de dado para textos, as strings podem ser escritas com aspas simples
+ou duplas; um número entre aspas pode ser considerado como uma string; é possível concatenar strings com +
+
+
+Boolean;
+Null;
+Undefined;
+Object;
