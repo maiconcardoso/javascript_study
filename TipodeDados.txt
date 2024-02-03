@@ -13,6 +13,6 @@ ou duplas; um número entre aspas pode ser considerado como uma string; é poss�
 Boolean; Representa um valor verdadeiro ou falso; Comparações resultam em boolean;
 podemos atribuir um 'true' ou 'false' para uma variável e ela terá o tipo de Boolean 
 
-Null;
-Undefined;
+Null and Undefined; Também são considerados tipos de dados, null é um tipo de dado que representa um valor e Undefined
+é um tipo de dado para uma variável com valor não atribuído.
 Object;
