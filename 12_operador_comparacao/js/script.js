@@ -14,10 +14,11 @@ if (possuiCarro) {
 }
 
 var nome = "Maicon";
-if (nome == "Maicon") {
+if (nome === "Maicon") {
     console.log("O seu nome é Maicon");
 }
 
 if (nome != "Maicon") {
     console.log("O seu nome não é Maicon");
 }
+
